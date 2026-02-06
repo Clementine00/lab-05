@@ -15,3 +15,6 @@ List any resources used here, or simply put `N/A` if not applicable.
 | ------------ | -------- |
 | `N/A` | `N/A` |
 
+
+
+To remove cities, click and hold on the city
